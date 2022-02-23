@@ -1,6 +1,6 @@
 ---
 title: "Google_Capstone_Project_Bellabeat_Case_withR"
-author: "Danning_Li_007"
+author: ""
 date: "2/7/2022"
 output: html_document
 ---
